@@ -1,0 +1,16 @@
+{
+  "alltodo": [
+    {
+      "id": 1,
+      "text": "study for 3 hours"
+    },
+    {
+      "id": 2,
+      "text": "buy dog food"
+    },
+    {
+      "id": 3,
+      "text": "Buy vegetables"
+    }
+  ]
+}
