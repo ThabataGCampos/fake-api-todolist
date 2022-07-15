@@ -2,15 +2,18 @@
   "alltodo": [
     {
       "id": 1,
-      "text": "study for 3 hours"
+      "text": "Study for 3 hours",
+      "done": false
     },
     {
       "id": 2,
-      "text": "buy dog food"
+      "text": "Buy dog food",
+      "done": false
     },
     {
       "id": 3,
-      "text": "Buy vegetables"
+      "text": "Buy vegetables",
+      "done": true
     }
   ]
 }
