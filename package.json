@@ -1,0 +1,22 @@
+{
+  "name": "fake-api-todolist",
+  "version": "1.0.0",
+  "description": "Criada no json-server para ser consumida na To do list >> https://github.com/ThabataGCampos/to-do-list.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThabataGCampos/fake-api-todolist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThabataGCampos/fake-api-todolist/issues"
+  },
+  "homepage": "https://github.com/ThabataGCampos/fake-api-todolist#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
