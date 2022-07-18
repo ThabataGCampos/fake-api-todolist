@@ -2,7 +2,7 @@
   "name": "fake-api-todolist",
   "version": "1.0.0",
   "description": "Criada no json-server para ser consumida na To do list >> https://github.com/ThabataGCampos/to-do-list.",
-  "main": "index.js",
+  "main": "server.js", 
   "scripts": {
     "start": "node server.js"
   },
